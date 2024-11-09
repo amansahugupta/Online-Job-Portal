@@ -1,0 +1,14 @@
+com\dao\ApplicationDAO.class
+com\model\JobSkill.class
+com\dao\UserSkillDAO.class
+com\dao\UserDAO.class
+com\model\Job.class
+com\dao\JobSkillDAO.class
+com\model\Skill.class
+com\dao\JobDAO.class
+com\model\Application.class
+com\model\User.class
+com\dao\SkillDAO.class
+com\dao\CompanyDAO.class
+com\model\Company.class
+com\model\UserSkill.class
